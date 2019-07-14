@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/kafka-async/src/promise"
+	"github.com/kafka-async/promise"
 	"github.com/stretchr/testify/assert"
 )
 
